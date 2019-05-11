@@ -10,11 +10,12 @@ body {
 }
 
 header {
-  background-color: rgb(255,205,0);
+  background-color: blue;
   font-size: 0;
 }
 
 h1 {
+  font-family: 'Gugi', cursive;
   color: white;
   /* background-color: red; */
   display: inline-block;
@@ -57,6 +58,7 @@ a:hover {
   color: white;
 }
 main {
+  font-family: 'Merriweather', serif;
   background-color: white;
   font-size: 0;
 }
@@ -75,6 +77,13 @@ main {
     vertical-align: top;
     padding: 20px;
 }
+h4 {
+  margin: 10px;
+  color: green;
+  margin-left: 10px
+}
+
+
 footer {
 
   padding: 20px 50px;
@@ -95,4 +104,7 @@ section p {
   margin-left: 20px;
   border: 1px solid #555555;
   padding: 10px;
+}
+section li{
+  margin:15px 15px;
 }
