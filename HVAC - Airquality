@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Clean Home</title>
+    <link href="https://fonts.googleapis.com/css?family=Gugi|Merriweather|Slabo+27px" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <h1>Clean Homes - Clean Living</h1>
+      <h2>Founded in 2018</h2>
+    </header>
+    <main>
+      <section>
+      <p>This is where I would elaborate on HVAC Specifics</p>
+    </main>
+    <footer>
+      <p>&copy; <span id="currentYear"></span> BrueManufacturing LLC - <a href="mailto:bruemanufacturing@gmail.com">bruemanufacturing@gmail.com</a></p>
+
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
